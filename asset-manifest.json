@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moralishackathon/static/css/main.073c9b0a.css",
+    "main.js": "/moralishackathon/static/js/main.7930d68f.js",
+    "static/js/787.381fbb9b.chunk.js": "/moralishackathon/static/js/787.381fbb9b.chunk.js",
+    "static/media/logo.svg": "/moralishackathon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moralishackathon/index.html",
+    "main.073c9b0a.css.map": "/moralishackathon/static/css/main.073c9b0a.css.map",
+    "main.7930d68f.js.map": "/moralishackathon/static/js/main.7930d68f.js.map",
+    "787.381fbb9b.chunk.js.map": "/moralishackathon/static/js/787.381fbb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7930d68f.js"
+  ]
+}
