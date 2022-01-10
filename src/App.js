@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Make A Phaser Game :)
+          Make A Cool Phaser Game :)
         </p>
         <a
           className="App-link"
